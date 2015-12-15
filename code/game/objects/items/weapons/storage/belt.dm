@@ -148,6 +148,7 @@
 	max_w_class = 3
 	can_hold = list(
 		/obj/item/device/taperecorder,
+		/obj/item/clothing/gloves/latex,
 		/obj/item/clothing/glasses,
 		/obj/item/device/flashlight,
 		/obj/item/weapon/reagent_containers/spray/luminol,
